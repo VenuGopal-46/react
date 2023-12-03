@@ -1,5 +1,5 @@
 {
-  "name": "react1",
+  "name": "cls",
   "version": "1.0.0",
   "description": "installing react",
   "source": "/src/index.html",
@@ -25,6 +25,9 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
-  "browserslist":[ "last 10 chrome versions", 
-  "lst 2 firefox version" ]
+  "browserslist": [
+    "last 10 chrome versions",
+    "lst 2 firefox version"
+  ],
+  "main": "index.js"
 }
