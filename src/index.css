@@ -1,19 +1,22 @@
-/*.h1{
-    background-color:aqua;
-    font-size: medium;
-}
 
-.h2{
-    background-color: orange;
-    font-style: italic;
-}
+/* .Header6{
+    align-items:center;
+    height:50px;
+    width:60px;
+    top: 20px;
 
-.h3{
-    background-color: rgb(224, 255, 229);
-}*/
+} */
 
-.Header6{
+.component{
     display:flex;
     justify-content: space-between;
-    background-color:aqua;
+    background-color:rgb(192, 233, 255);
+    align-items:center;
+    height:50px;
+    width:1525px;
+    top: 20px;
+}
+
+
+.new{
 }
